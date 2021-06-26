@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @max-montes
 - 👀 I’m interested in computer science and neuroscience
-- 📫 How to reach me: max_montes@student.waylandps.org
+- 📫 How to reach me: montessm@bc.edu
 
 <!---
 max-montes/max-montes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
