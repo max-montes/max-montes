@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @max-montes
-- 👀 I’m interested in computer science and neuroscience
+- 👀 I’m interested in computer science, neuroscience and philosophy
 - 📫 How to reach me: montessm@bc.edu
 
 <!---
